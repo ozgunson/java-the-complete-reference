@@ -1,7 +1,7 @@
 package org.example.javathecompletereference.inheritance.finalwithinheritance;
 
 // The following class is illegal.
-public class D extends C{ // ERROR! Can't subclass A
+public class D { //extends C{ // ERROR! Can't subclass A
 }
 
 /*
